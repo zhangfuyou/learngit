@@ -7,3 +7,5 @@ func PrintNums(count int64){
 		fmt.println(i)
 	}
 }
+
+git checkout -- .
