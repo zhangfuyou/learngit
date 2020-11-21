@@ -1,1 +1,2 @@
 即将要被删除的文件
+执行git checkout -- test.txt试试
