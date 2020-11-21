@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is a free software.
 
-Creating a nerw branch is quick
+Creating a nerw branch is quick & simple
